@@ -1,6 +1,9 @@
-# Trello-Clone
+# Trello-Clone using NextJS
 
-## How to run?🏃‍♂️
+## Live 🎈
+[Trello-clone](https://trello-clone-pradeept.netlify.app)
+
+## How to run?
 
 First, run the development server:
 
@@ -17,9 +20,6 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-## Screenshot 🖼️
-
-![Screenshot of the app](./app_UI.png)
 
 
 
